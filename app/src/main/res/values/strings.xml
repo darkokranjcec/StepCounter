@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Step Counter</string>
+    <string name="check_your_steps_count">Check your steps count</string>
+    <string name="today">Today</string>
+    <string name="last_week">Last week</string>
+    <string name="last_month">Last month</string>
+    <string name="enter_goal_steps">Enter goal steps</string>
+    <string name="save_goal_steps">Save goal steps</string>
+    <string name="check">Check</string>
+</resources>
